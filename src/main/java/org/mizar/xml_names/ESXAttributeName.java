@@ -15,10 +15,12 @@ public interface ESXAttributeName {
     String BRACKETED = "bracketed";
     String CONSTR = "constr";
     String CONSTRNR = "constrnr";
+    String DESCRIPTION = "description";
     String ENDPOSITION = "endposition";
     String FORMATDES = "formatdes";
     String FORMATNR = "formatnr";
     String FREEVARNR = "freevarnr";
+    String HREF = "href";
     String IDNR = "idnr";
     String INSCRIPTION = "inscription";
     String KIND = "kind";

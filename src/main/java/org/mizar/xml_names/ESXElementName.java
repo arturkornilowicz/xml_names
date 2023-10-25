@@ -71,6 +71,7 @@ public interface ESXElementName {
     String IMPLICITLY_QUALIFIED_SEGMENT = "Implicitly-Qualified-Segment";
     String INFIX_TERM = "Infix-Term";
     String INFIXFUNCTOR_PATTERN = "InfixFunctor-Pattern";
+    String INSERT_SHORT_TEXT = "Insert-Short-Text";
     String INTERNAL_SELECTOR_TERM = "Internal-Selector-Term";
     String ITEM = "Item";
     String ITERATIVE_EQUALITY = "Iterative-Equality";
@@ -163,6 +164,7 @@ public interface ESXElementName {
     String TYPE_SPECIFICATION = "Type-Specification";
     String UNIVERSAL_QUANTIFIER_FORMULA = "Universal-Quantifier-Formula";
     String UNKNOWN = "Unknown";
+    String URL = "URL";
     String VARIABLE = "Variable";
     String VARIABLE_SEGMENTS = "Variable-Segments";
     String VARIABLES = "Variables";
