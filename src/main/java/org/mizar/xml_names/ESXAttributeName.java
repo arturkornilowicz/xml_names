@@ -9,6 +9,7 @@ public interface ESXAttributeName {
     String ABSOLUTEPATTERNMMLID = "absolutepatternMMLId";
     String AMOUNT = "amount";
     String ANTONYMIC = "antonymic";
+    String ARITY = "arity";
     String ARTICLEEXT = "articleext";
     String ARTICLEID = "articleid";
     String BRACKETED = "bracketed";
