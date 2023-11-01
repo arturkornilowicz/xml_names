@@ -1,6 +1,4 @@
-package org.mizar.classes;
-
-import org.mizar.xml_names.ESXAttributeName;
+package org.mizar.xml_names;
 
 public interface TIXAttributeName extends ESXAttributeName {
 

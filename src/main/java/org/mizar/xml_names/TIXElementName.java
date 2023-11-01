@@ -1,6 +1,4 @@
-package org.mizar.classes;
-
-import org.mizar.xml_names.ESXElementName;
+package org.mizar.xml_names;
 
 public interface TIXElementName extends ESXElementName {
 
