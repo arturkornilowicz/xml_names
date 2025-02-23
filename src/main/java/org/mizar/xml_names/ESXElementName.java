@@ -5,6 +5,7 @@ public interface ESXElementName {
     String ADJECTIVE_CLUSTER = "Adjective-Cluster";
     String AGGREGATE_TERM = "Aggregate-Term";
     String AGGREGATEFUNCTOR_PATTERN = "AggregateFunctor-Pattern";
+    String ALIAS = "Alias";
     String ANCESTORS = "Ancestors";
     String ARGUMENTS = "Arguments";
     String ASSUMPTION = "Assumption";
